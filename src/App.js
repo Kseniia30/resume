@@ -1,7 +1,10 @@
 import { Route, Routes } from 'react-router-dom';
-import { Layout, HomePage, Resume } from './pages';
+import { Layout, HomePage } from './pages';
 import { Container } from './App.styled';
-import ResumeNew from './components/ResumeNew/ResumeNew';
+import { lazy } from 'react';
+
+const Resume = lazy(() => import('./pages'));
+const ResumeNew = lazy(() => import('./components/ResumeNew/ResumeNew'));
 
 function App() {
   return (
