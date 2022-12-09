@@ -27,11 +27,13 @@ const MainPart = () => {
       <InfoBox>
         <MainTitle>Summary</MainTitle>
         <SummaryText>
-          I am a Front-End developer looking for a full-time position in a
-          company that's aimed at making both everyday life and business easier,
-          more productive and user-friendly. I have sound knowledge of HTML,
-          CSS, JavaScript, and React. I am a fast learner, responsible, and
-          ready for challenging tasks.
+          I am a Junior Front End Developer and JavaScript, master HTML5, CSS3.
+          In addition to this, I have experience with implementing both
+          individual and team projects. I am adaptive, organized, punctual and I
+          have a high level of learnability and growth mindset. The vacancy in
+          IT-company is interesting for me as I want to participate in creating
+          web-sites. It is important for me to grow as a Front Developer and to
+          put in practice my knowledge in HTML, CSS and JS.
         </SummaryText>
         <MainTitle>Project Experience</MainTitle>
         <ExperienceList>
